@@ -1,4 +1,4 @@
-package periodAndDuration;
+package 시량;
 
 import java.time.Duration;
 import java.time.LocalTime;

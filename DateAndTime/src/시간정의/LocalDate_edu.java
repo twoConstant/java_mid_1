@@ -1,3 +1,5 @@
+package 시간정의;
+
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 

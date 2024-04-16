@@ -1,3 +1,5 @@
+package 시간정의;
+
 import java.time.LocalTime;
 
 public class LocalTime_edu {

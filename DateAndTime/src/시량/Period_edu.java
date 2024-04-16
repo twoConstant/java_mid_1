@@ -1,8 +1,6 @@
-package periodAndDuration;
+package 시량;
 
-import java.time.Duration;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.Period;
 
 public class Period_edu {
