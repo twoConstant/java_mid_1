@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DateAndTime/DateAndTime.iml" filepath="$PROJECT_DIR$/DateAndTime/DateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum_edu/Enum_edu.iml" filepath="$PROJECT_DIR$/Enum_edu/Enum_edu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/자바중급1.iml" filepath="$PROJECT_DIR$/.idea/자바중급1.iml" />
     </modules>
   </component>
