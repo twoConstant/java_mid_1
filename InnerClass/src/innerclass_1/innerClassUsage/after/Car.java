@@ -1,7 +1,5 @@
 package innerclass_1.innerClassUsage.after;
 
-import innerclass_1.innerClassUsage.before.Engine;
-
 public class Car {
     private String model;
     private int chargeLevel;
